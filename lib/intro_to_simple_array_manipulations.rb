@@ -4,7 +4,7 @@ def using_push(array, string)
   
   
     
-    colors_in_the_rainbow.push(next_color)
+    array.push(string)
     
     
 end
@@ -12,7 +12,7 @@ end
 def using_unshift(array, string)
   
     
-    bouroughs_in_nyc.unshift("Staten Island")
+    array.unshift(string)
 end
 
 def using_pop(array)
@@ -27,7 +27,7 @@ def using_pop_with_args(array)
 end
 
 def using_shift(array)
-  my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+  
   
   
 end
