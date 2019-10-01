@@ -43,6 +43,6 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array)
-  array.insert(array[4]
+  array.insert(array[4])
   
 end
