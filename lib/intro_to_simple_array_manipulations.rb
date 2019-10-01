@@ -31,3 +31,6 @@ def using_shift(array)
   
   
 end
+
+
+pop_with_args()
